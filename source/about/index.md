@@ -1,4 +1,5 @@
 ---
-title: Rinkaede Blog
-date: 2019-10-11
+title: 关于我
 ---
+
+兴趣爱好什么的都是扯淡，专注自己喜欢的就OK了
